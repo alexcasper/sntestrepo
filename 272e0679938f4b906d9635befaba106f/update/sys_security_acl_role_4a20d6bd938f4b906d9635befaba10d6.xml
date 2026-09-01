@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-01 13:19:52</sys_created_on>
+        <sys_id>4a20d6bd938f4b906d9635befaba10d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_659385_my_test_0_test.x_659385_my_test_0.user</sys_name>
+        <sys_package display_value="My_Test_App" source="x_659385_my_test_0">272e0679938f4b906d9635befaba106f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My_Test_App">272e0679938f4b906d9635befaba106f</sys_scope>
+        <sys_security_acl display_value="x_659385_my_test_0_test">4220d6bd938f4b906d9635befaba10bf</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4a20d6bd938f4b906d9635befaba10d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-01 13:19:52</sys_updated_on>
+        <sys_user_role display_value="x_659385_my_test_0.user" name="x_659385_my_test_0.user">3f2e8679938f4b906d9635befaba1002</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
